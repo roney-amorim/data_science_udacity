@@ -4,16 +4,12 @@
 import csv
 import matplotlib.pyplot as plt
 import random
-import pandas as pandas
+import pandas as pd
 import numpy as np
 
 # Lendo os dados como uma lista
 print("Lendo o documento...")
-with open("titanic-data-6.csv", "r") as file_read:
-    data_list = [{k: v for k, v in row.items()} 
-        for row in csv.DictReader(file_read, skipinitialspace=True)]
-#print(data_list)
-
+data_list = pd.read_csv("titanic-data-6.csv")
 total_passageiros = len(data_list)
 print(total_passageiros)
 
@@ -51,7 +47,7 @@ def count_people_by_class2(data_list):
       Retorna:
           Quantidade de pessoas de gêneros masculino e feminino.
     '''
-    first = 0
+    first = 0 
     second = 0
     third = 0
 
