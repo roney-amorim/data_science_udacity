@@ -1,0 +1,10 @@
+REFERÊNCIAS
+
+https://www.kaggle.com/c/titanic/data
+https://veja.abril.com.br/brasil/homens-sobrevivem-mais-a-naufragios-do-que-mulheres-e-criancas/
+https://noticias.uol.com.br/saude/ultimas-noticias/afp/2012/07/31/homens-sobrevivem-mais-que-mulheres-e-criancas-em-naufragios-titanic-e-excecao.htm
+http://blog.caelum.com.br/r-titanic-e-data-science/
+
+https://stackoverflow.com/questions/41494942/pandas-dataframe-groupby-plot?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+https://www.tutorialspoint.com/python/number_round.htm
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html
