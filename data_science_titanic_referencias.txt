@@ -1,4 +1,5 @@
-REFERÊNCIAS
+﻿REFERÊNCIAShttps://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
+
 
 https://www.kaggle.com/c/titanic/data
 https://veja.abril.com.br/brasil/homens-sobrevivem-mais-a-naufragios-do-que-mulheres-e-criancas/
